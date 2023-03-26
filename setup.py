@@ -37,7 +37,7 @@ setup(
         'brotli>=1.0.9',
         'certifi>=2019.9.11',
         "h2>=2.0; python_version>='3.6.0'",
-        "hyperframe>=6.0; python_version>='3.6.0'",
+        "hyperframe>=3.0; python_version>='3.6.0'",
         'kaitaistruct>=0.7',
         'pyasn1>=0.3.1',
         'pyOpenSSL>=22.0.0',
